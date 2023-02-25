@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Ajay Nikumbh</h1>
 <h3 align="center">I am currently pursuing MTECH - Artificial intelligence from IIIT Vadodara</h3>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -25,3 +27,20 @@
 - 👨‍💻 All of my projects are available at [https://github.com/ajay-nikumbh](https://github.com/ajay-nikumbh)
 
 - 📫 How to reach me **ajaynikumbh.1@gmail.com**
+
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/ajay-nikumbh-776781104/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/ajay-nikumbh">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/15954749/ajay-nikumbh">
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+	      <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/_a_j_n_i_k_s/?hl=en">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		  </div>
+
+</p>
