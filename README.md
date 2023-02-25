@@ -32,7 +32,7 @@
 
 <p>
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
+ <div  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/ajay-nikumbh-776781104/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/ajay-nikumbh">
